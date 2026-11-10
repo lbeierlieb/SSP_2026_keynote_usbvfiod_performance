@@ -14,7 +14,7 @@ layout: cover
 
 Lukas Beierlieb · Cyberus Technology
 
-SSP 2026 · Würzburg, 11 Nov
+SSP 2026 · Würzburg, 10 Nov
 
 ---
 
